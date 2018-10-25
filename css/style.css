@@ -1,68 +1,68 @@
-@import url("https://fonts.googleapis.com/css?family=Abel|Amatic+SC|BenchNine|Chathura|Delius|Dosis|Economica|Fira+Sans|Fjalla+One|Open+Sans+Condensed:300,700|Open+Sans:300,800|Pathway+Gothic+One|Roboto:900|Sue+Ellen+Francisco|Wire+One");
+	@import url("https://fonts.googleapis.com/css?family=Abel|Amatic+SC|BenchNine|Chathura|Delius|Dosis|Economica|Fira+Sans|Fjalla+One|Open+Sans+Condensed:300,700|Open+Sans:300,800|Pathway+Gothic+One|Roboto:900|Sue+Ellen+Francisco|Wire+One");
 
-@import url("component/container.css");
+	@import url("component/container.css");
 
-@import url("component/avatar.css");
+	@import url("component/avatar.css");
 
-@import url("component/button.css");
+	@import url("component/button.css");
 
-@import url("component/banner.css");
+	@import url("component/banner.css");
 
-@import url("component/card.css");
+	@import url("component/card.css");
 
-@import url("component/footer.css");
-
-
-
-
-body {
-	font-family: 'Helvetica', sans-serif;
-	font-size: 18px;
-	margin:0px;
-	background-color: #f9f9f9;
-	text-align: justify;
-}
-
-p {
-	text-align: justify;
-	font-family: 'Helvetica';
-	color:#2d2a26;
-}
-
-
-h1,h2 {
-	font-family: 'Economica', sans-serif;
-}
-
-
-h3{
-	text-align: center;
-	font-family: 'Open Sans Condensed', sans-serif;
-	font-weight: lighter;
-	font-size:30px;
-	color:#49453f;
-}
-
-
-h4 {
-	
-	font-weight: lighter;
-	font-family:"Open Sans";
-}
-
-
-a {
-	text-decoration: none;
-	font-family: 'Roboto', sans-serif;
-	font-weight: lighter;
-}
+	@import url("component/footer.css");
 
 
 
 
-.title-border {
-	
-}
+	body {
+		font-family: 'Helvetica', sans-serif;
+		font-size: 18px;
+		margin:0px;
+		background-color: #f9f9f9;
+		text-align: justify;
+	}
+
+	p {
+		text-align: justify;
+		font-family: 'Helvetica';
+		color:#2d2a26;
+	}
+
+
+	h1,h2 {
+		font-family: 'Economica', sans-serif;
+	}
+
+
+	h3{
+		text-align: center;
+		font-family: 'Open Sans Condensed', sans-serif;
+		font-weight: lighter;
+		font-size:30px;
+		color:#49453f;
+	}
+
+
+	h4 {
+		
+		font-weight: lighter;
+		font-family:"Open Sans";
+	}
+
+
+	a {
+		text-decoration: none;
+		font-family: 'Roboto', sans-serif;
+		font-weight: lighter;
+	}
+
+
+
+
+	.title-border {
+		
+	}
 
 
 
