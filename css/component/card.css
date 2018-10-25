@@ -1,4 +1,4 @@
-	.card-description {
+	.card-introduction {
 		background-color:#DDD5CA;
 		width:700px;
 		display:flex;
@@ -9,7 +9,7 @@
 		
 	}
 
-	.card-description p {
+	.card-introduction p {
 		padding-left:20px;
 	}
 
@@ -48,7 +48,7 @@
 	    align-items: center;
 
 
-	    
+
 	/*    text-align:center;
 	    margin:auto;*/
 	}
